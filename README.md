@@ -50,7 +50,7 @@ add_executable(location-quick-start location-quick-start.cpp)
 target_link_libraries(location-quick-start wpsapi)
 ```
 
-The final `CMakeLists.txt` code is available [here](https://github.com/quic/tps-location-quick-start-native/tree/main/CMakeLists.txt).
+The final `CMakeLists.txt` code is available [here](https://github.com/qualcomm/tps-location-quick-start-native/tree/main/CMakeLists.txt).
 
 ## Import SDK
 
@@ -99,7 +99,7 @@ It is recommended to free resources used by SDK when the program is about to ter
     WPS_unload();
 ```
 
-The complete source code in available [here](https://github.com/quic/tps-location-quick-start-native/tree/main/location-quick-start.cpp).
+The complete source code in available [here](https://github.com/qualcomm/tps-location-quick-start-native/tree/main/location-quick-start.cpp).
 
 ## Build the app
 
@@ -181,7 +181,7 @@ Inside the app bundle directory, create an `Info.plist` file with app bundle inf
 </plist>
 ```
 
-`Info.plist` is available [here](https://github.com/quic/tps-location-quick-start-native/tree/main/Info.plist) for your reference.
+`Info.plist` is available [here](https://github.com/qualcomm/tps-location-quick-start-native/tree/main/Info.plist) for your reference.
 
 ### Start the app
 
@@ -193,7 +193,7 @@ If you've placed the necessary files in the directory along with the executable,
 
 ## Further Read
 
-Please refer to the [full SDK guide](https://quic.github.io/tps-location-sdk-native/) for more information.
+Please refer to the [full SDK guide](https://qualcomm.github.io/tps-location-sdk-native/) for more information.
 
 # License
 ![License](https://img.shields.io/static/v1?label=license&message=CC-BY-ND-4.0&color=green)
